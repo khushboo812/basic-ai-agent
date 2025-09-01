@@ -1,11 +1,9 @@
 # basic-ai-agent
 A simple, command-line AI agent built with Python. This project is a foundational exploration into the core principles of conversational AI, capable of understanding and responding to a pre-defined set of user inputs. A great starting point for anyone new to AI development.
-# [Your-Project-Name] 🎙️
+# [Basic-ai-agent] 🎙️
 
 A simple, voice-controlled AI assistant built with Python. This project was created to explore the fundamentals of speech recognition and text-to-speech (TTS) technology.
 
-![Project Demo GIF](images/demo.gif)
-> **Note:** For a voice project, a short video or an animated GIF is the best way to show it off! You can use a free tool like Giphy Capture or ScreenToGif to record your screen while you interact with your agent. Create an `images` folder and save it as `demo.gif`.
 
 ---
 
